@@ -1,5 +1,4 @@
 # Image-Captioning-AI
-# Image-Captioning-AI
 
 
 
